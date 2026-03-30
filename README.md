@@ -27,4 +27,4 @@ This repository includes:
 - Curation log
 
 ## Project Goal
-The overall goal of this project is to determine whether the dataset and associated materials are sufficiently curated to support understanding, transparency, and responsible reuse.
+As a research data curator, my goal in this project is to evaluate how well the selected Dryad dataset has been prepared for sharing, understanding, and future reuse. I am examining the dataset’s metadata, documentation, repository context, and relationship to the associated research article to assess whether it is sufficiently clear, transparent, and reusable for someone outside the original research team.
